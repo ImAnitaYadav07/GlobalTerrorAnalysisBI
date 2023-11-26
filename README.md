@@ -1,3 +1,5 @@
+<img src="Blue Modern Technology LinkedIn Banner.png">
+
 # Power BI Dashboard Creation - Global Terrorism Analysis
 
 Terrorism Database
