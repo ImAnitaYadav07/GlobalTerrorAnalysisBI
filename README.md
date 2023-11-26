@@ -1,7 +1,5 @@
 # Power BI Dashboard Creation - Global Terrorism Analysis
 
-<img src="./ADRtrends.png" >
-
 Terrorism Database
 
 The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date, location, attack type, weapons used, number of casualties,
@@ -19,6 +17,8 @@ and responsible groups. Your task is to create a Power BI dashboard that provide
   - Visualize attack locations on a map.
   - Analyze trends in attack types and weapons used.
   - Compare casualties by region or year.
+
+<img src="GRpt.png" alt="HTML tutorial" style="width:800px;height:500px;">
     
 ## Insights :
 
@@ -43,7 +43,8 @@ and responsible groups. Your task is to create a Power BI dashboard that provide
      **country Iraq** and other segments are
      significantly **higher** than others.
 
-<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+<img src="MRpt.png" alt="HTML tutorial" style="width:500px;height:300px;"> <img src="WRpt.png" alt="HTML tutorial" style="width:500px;height:300px;">
+
 
 
 
