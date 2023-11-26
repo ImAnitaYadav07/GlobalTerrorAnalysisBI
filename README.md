@@ -43,7 +43,7 @@ and responsible groups. Your task is to create a Power BI dashboard that provide
      **country Iraq** and other segments are
      significantly **higher** than others.
 
-<img src="MRpt.png" alt="HTML tutorial" style="width:300px;height:200px;"> <img src="WRpt.png" alt="HTML tutorial" style="width:300px;height:200px;">
+<img src="MRpt.png" alt="HTML tutorial" style="width:400px;height:250px;"> <img src="WRpt.png" alt="HTML tutorial" style="width:400px;height:250px;">
 
 
 
